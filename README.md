@@ -8,7 +8,7 @@ A simple and efficient terminal-based Diary application written in **C**. This p
 ### 🚀 Try It Now!
 You can test the program directly in your browser without installing anything. Click the button below, then press the **Run** button at the top.
 
-[![Run on OnlineGDB](https://img.shields.io/badge/Run_Online-OnlineGDB-green?style=for-the-badge&logo=c&logoColor=white)](https://onlinegdb.com/fM65GHAQ6)
+[![Run Program](https://img.shields.io/badge/RUN_DIARY_NOW-2ea44f?style=for-the-badge&logo=c&logoColor=white)](https://onlinegdb.com/fM65GHAQ6)
 
 > **Note:** For the best experience, run this on your local computer using **Dev-C++** or **VS Code**. Online compilers might have file permission restrictions.
 
