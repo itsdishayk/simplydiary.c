@@ -38,3 +38,6 @@ I used the following concepts:
 
 ### 👤 Author
 **[Disha Mazumder]** *Learning C Programming and building cool things!*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/disha-mazumder-790659359)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/eyyitsdisha)
