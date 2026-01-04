@@ -1,0 +1,1 @@
+# simplydiary.c
