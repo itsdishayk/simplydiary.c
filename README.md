@@ -22,14 +22,6 @@ You can test the program directly in your browser without installing anything. C
 
 ---
 
-### 📂 How to Run (Local Machine)
-1.  Download the `diary.c` file.
-2.  Open it in **Dev-C++**.
-3.  Press `F11` to Compile and Run.
-4.  Check your project folder for the `diary.txt` file!
-
----
-
 ### 🛠️ Technical Details
 <details>
 <summary>Click to view the Code Logic 🔍</summary>
